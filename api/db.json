@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "Streamz",
+      "description": "And Dreamz",
+      "id": 1
+    },
+    {
+      "title": "Memo Stream",
+      "description": "yaaah das meee",
+      "id": 2
+    },
+    {
+      "title": "Memo Stream 2",
+      "description": "yaaah das also meee",
+      "id": 3
+    },
+    {
+      "title": "Papa's Stream",
+      "description": "For daddio",
+      "userId": "115135743259132970172",
+      "id": 4
+    },
+    {
+      "title": "This is a test of window location replace",
+      "description": "it worked at pragmatics lol",
+      "userId": "115135743259132970172",
+      "id": 6
+    },
+    {
+      "title": "CRUD",
+      "description": "It's CRUD...yee yee",
+      "userId": "115135743259132970172",
+      "id": 7
+    }
+  ]
+}
